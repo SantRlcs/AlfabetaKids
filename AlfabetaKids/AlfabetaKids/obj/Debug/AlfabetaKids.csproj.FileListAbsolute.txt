@@ -1,0 +1,27 @@
+D:\Conteúdo 2º ano\DS\AlfabetaKids\AlfabetaKids\bin\Debug\AlfabetaKids.exe.config
+D:\Conteúdo 2º ano\DS\AlfabetaKids\AlfabetaKids\bin\Debug\AlfabetaKids.exe
+D:\Conteúdo 2º ano\DS\AlfabetaKids\AlfabetaKids\bin\Debug\AlfabetaKids.pdb
+D:\Conteúdo 2º ano\DS\AlfabetaKids\AlfabetaKids\obj\Debug\AlfabetaKids.csproj.AssemblyReference.cache
+D:\Conteúdo 2º ano\DS\AlfabetaKids\AlfabetaKids\obj\Debug\AlfabetaKids.csproj.SuggestedBindingRedirects.cache
+D:\Conteúdo 2º ano\DS\AlfabetaKids\AlfabetaKids\obj\Debug\AlfabetaKids.Form1.resources
+D:\Conteúdo 2º ano\DS\AlfabetaKids\AlfabetaKids\obj\Debug\AlfabetaKids.Form2.resources
+D:\Conteúdo 2º ano\DS\AlfabetaKids\AlfabetaKids\obj\Debug\AlfabetaKids.Properties.Resources.resources
+D:\Conteúdo 2º ano\DS\AlfabetaKids\AlfabetaKids\obj\Debug\AlfabetaKids.csproj.GenerateResource.cache
+D:\Conteúdo 2º ano\DS\AlfabetaKids\AlfabetaKids\obj\Debug\AlfabetaKids.csproj.CoreCompileInputs.cache
+D:\Conteúdo 2º ano\DS\AlfabetaKids\AlfabetaKids\obj\Debug\AlfabetaKids.exe
+D:\Conteúdo 2º ano\DS\AlfabetaKids\AlfabetaKids\obj\Debug\AlfabetaKids.pdb
+D:\Conteúdo 2º ano\DS\AlfabetaKids\AlfabetaKids\obj\Debug\AlfabetaKids.Form3.resources
+D:\Conteúdo 2º ano\DS\AlfabetaKids\AlfabetaKids\obj\Debug\AlfabetaKids.Form4.resources
+E:\TÉCNICO\CONTEÚDO DS\AlfabetaKids\AlfabetaKids\bin\Debug\AlfabetaKids.exe.config
+E:\TÉCNICO\CONTEÚDO DS\AlfabetaKids\AlfabetaKids\bin\Debug\AlfabetaKids.exe
+E:\TÉCNICO\CONTEÚDO DS\AlfabetaKids\AlfabetaKids\bin\Debug\AlfabetaKids.pdb
+E:\TÉCNICO\CONTEÚDO DS\AlfabetaKids\AlfabetaKids\obj\Debug\AlfabetaKids.csproj.AssemblyReference.cache
+E:\TÉCNICO\CONTEÚDO DS\AlfabetaKids\AlfabetaKids\obj\Debug\AlfabetaKids.Form1.resources
+E:\TÉCNICO\CONTEÚDO DS\AlfabetaKids\AlfabetaKids\obj\Debug\AlfabetaKids.Form2.resources
+E:\TÉCNICO\CONTEÚDO DS\AlfabetaKids\AlfabetaKids\obj\Debug\AlfabetaKids.Form3.resources
+E:\TÉCNICO\CONTEÚDO DS\AlfabetaKids\AlfabetaKids\obj\Debug\AlfabetaKids.Form4.resources
+E:\TÉCNICO\CONTEÚDO DS\AlfabetaKids\AlfabetaKids\obj\Debug\AlfabetaKids.Properties.Resources.resources
+E:\TÉCNICO\CONTEÚDO DS\AlfabetaKids\AlfabetaKids\obj\Debug\AlfabetaKids.csproj.GenerateResource.cache
+E:\TÉCNICO\CONTEÚDO DS\AlfabetaKids\AlfabetaKids\obj\Debug\AlfabetaKids.csproj.CoreCompileInputs.cache
+E:\TÉCNICO\CONTEÚDO DS\AlfabetaKids\AlfabetaKids\obj\Debug\AlfabetaKids.exe
+E:\TÉCNICO\CONTEÚDO DS\AlfabetaKids\AlfabetaKids\obj\Debug\AlfabetaKids.pdb
